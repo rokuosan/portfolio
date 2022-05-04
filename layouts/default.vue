@@ -1,18 +1,11 @@
 <!--suppress CssUnusedSymbol -->
 <template>
   <div class="relative w-screen">
-    <Header />
     <Nuxt />
+    <Footer />
   </div>
 </template>
 <script>
-import Header from '@/components/Header'
-
-export default {
-  components: {
-    Header
-  }
-}
 </script>
 <style>
 .page-enter, .page-leave-to{
