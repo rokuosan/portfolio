@@ -10,7 +10,8 @@ module.exports = {
     extend: {
       fontFamily: {
         notosans: ['Noto Sans JP', 'sans-serif'],
-        raleway: ['Raleway', 'sans-serif']
+        raleway: ['Raleway', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif']
       }
     }
   },
