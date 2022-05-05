@@ -1,5 +1,7 @@
 <template>
-  <Profile />
+  <div class="text-neutral-50 bg-neutral-900 font-poppins">
+    <Profile />
+  </div>
 </template>
 
 <script>
