@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
-    <div class="py-20 grid grid-cols-1 md:grid-cols-3 md:gap-8 gap-y-8 md:w-5/6 w-[95%] mx-auto relative md:border-l-4 border-neutral-50">
-      <div class="absolute origin-bottom-left -rotate-90 text-4xl bottom-5 left-0 md:visible invisible italic select-none text-neutral-50">
+    <div class="py-20 grid grid-cols-1 md:grid-cols-3 md:gap-8 gap-y-8 md:w-5/6 w-[95%] mx-auto relative md:border-l-4 border-neutral-600">
+      <div class="absolute origin-bottom-left -rotate-90 text-4xl bottom-5 left-0 md:visible invisible italic select-none text-neutral-600">
         Self Introduction
       </div>
       <div class="col-span-1 md:justify-self-end justify-self-center flex relative select-none">
