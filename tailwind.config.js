@@ -11,7 +11,8 @@ module.exports = {
       fontFamily: {
         notosans: ['Noto Sans JP', 'sans-serif'],
         raleway: ['Raleway', 'sans-serif'],
-        poppins: ['Poppins', 'sans-serif']
+        poppins: ['Poppins', 'sans-serif'],
+        mixed: ['Poppins', 'Noto Sans JP', 'sans-serif']
       }
     }
   },
