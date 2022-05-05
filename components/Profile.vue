@@ -12,7 +12,7 @@
           Profile
         </h3>
         <div class="grid grid-cols-3 text-2xl pt-5 gap-x-6">
-          <div class="col-span-1 key grid grid-cols-1 gap-y-4 text-center font-light">
+          <div class="col-span-1 key grid grid-cols-1 gap-y-4 text-center font-light italic">
             <div> Name </div>
             <div> Birthday </div>
             <div> Country </div>
