@@ -1,6 +1,6 @@
 <!--suppress CssUnusedSymbol -->
 <template>
-  <div class="relative w-screen">
+  <div class="relative">
     <Nuxt />
     <Footer />
   </div>
