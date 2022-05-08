@@ -1,8 +1,10 @@
 <template>
   <div class="text-neutral-50 bg-neutral-900 font-poppins">
     <Profile />
+    <About />
     <Work />
     <Social />
+    <Contact />
     <Footer />
   </div>
 </template>
