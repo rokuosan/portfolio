@@ -33,7 +33,7 @@
 </template>
 
 <script>
-import GitHubIcon from 'vue-material-design-icons/GitHub.vue'
+import GitHubIcon from '../node_modules/vue-material-design-icons/GitHub.vue'
 import TwitterIcon from 'vue-material-design-icons/Twitter.vue'
 
 export default {
