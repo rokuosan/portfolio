@@ -33,7 +33,7 @@
 </template>
 
 <script>
-import GitHubIcon from 'vue-material-design-icons/github.vue'
+// import GitHubIcon from 'vue-material-design-icons/github.vue'
 import TwitterIcon from 'vue-material-design-icons/Twitter.vue'
 
 export default {
@@ -46,7 +46,7 @@ export default {
   },
   components: {
     TwitterIcon,
-    GitHubIcon,
+
   },
   methods: {
     goTo(url){
@@ -66,7 +66,7 @@ export default {
           name: 'GitHub',
           account: 'rokuosan',
           link: 'https://github.com/rokuosan',
-          icon: GitHubIcon
+          icon: TwitterIcon
         }
       ]
     }
