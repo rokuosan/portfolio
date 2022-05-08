@@ -14,11 +14,13 @@
         About Me
       </div>
       <!-- Description -->
-      <div class="md:w-fit text-8xl mb-8 mx-auto font-notosans p-4 font-bold tracking-wide leading-relaxed">
-        バックエンドに興味がある<br />
-        情報系の学生です。<br />
-        推し言語はKotlin です。<br />
-        よろしくお願いします。
+      <div class="w-fit text-4xl mb-24 mx-auto font-notosans p-4 font-bold tracking-wide leading-relaxed">
+        <p>
+          バックエンドに興味がある情報系の学生です。
+        </p>
+        <p>
+          Kotlin と自宅サーバーで遊んでます。
+        </p>
       </div>
 
     </div>
