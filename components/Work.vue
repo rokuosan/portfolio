@@ -10,7 +10,7 @@
         <ArrowDownIcon :size="32"/>
       </div>
       <!--  Title    -->
-      <div class="md:w-48 text-4xl border-b-2 border-indigo-500 text-center rounded mb-4 mx-auto">
+      <div class="w-fit px-8 text-4xl border-b-2 border-indigo-500 text-center rounded mb-4 mx-auto">
         Works
       </div>
       <!-- Description -->
