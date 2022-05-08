@@ -6,8 +6,12 @@
         Social
       </div>
       <!--  Title    -->
-      <div class="md:w-48 text-4xl border-b-2 border-indigo-500 text-center rounded mb-8 mx-auto">
+      <div class="md:w-48 text-4xl border-b-2 border-indigo-500 text-center rounded mb-3 mx-auto">
         Social
+      </div>
+      <!-- Description -->
+      <div class="md:w-fit text-lg text-center mb-8 mx-auto font-notosans">
+        雑に運用しているアカウントです。仲良くしてください。
       </div>
       <!--  Cards    -->
       <div class="flex flex-wrap gap-8 px-8 justify-items-center justify-center">

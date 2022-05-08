@@ -2,7 +2,6 @@
 <template>
   <div class="relative">
     <Nuxt />
-    <Footer />
   </div>
 </template>
 <script>

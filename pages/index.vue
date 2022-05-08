@@ -3,6 +3,7 @@
     <Profile />
     <Work />
     <Social />
+    <Footer />
   </div>
 </template>
 
