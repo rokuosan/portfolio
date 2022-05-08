@@ -12,7 +12,7 @@
       <!--  Cards    -->
       <div class="flex flex-wrap gap-8 px-8 justify-items-center justify-center">
         <div v-for="social in socials" :key="social.name" :class="social.name">
-          <div class="p-4 rounded-2xl sm:w-96 w-72" @click="goTo(social.link)">
+          <div class="p-4 rounded-2xl sm:w-96 w-72 hover:bg-neutral-800" @click="goTo(social.link)">
             <div class="flex gap-4 flex-row">
               <div class="bg-indigo-800 sm:rounded-2xl rounded-xl p-4">
                 <component :is="social.icon" :size="32"  />
